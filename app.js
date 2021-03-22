@@ -18,3 +18,16 @@ connection.connect(function (err) {
   firstPrompt();
 });
 
+//view all departments function
+
+//view all roles function
+
+//view all employess function
+
+//add a department function
+
+//add a role function
+
+//add a employee function
+
+//update an employee roles function
