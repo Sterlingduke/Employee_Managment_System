@@ -1,3 +1,4 @@
+
 USE employeeDB;
 
 
@@ -18,14 +19,14 @@ INSERT INTO role (title, salary, department_id) values ('Software Engineer','120
 INSERT INTO role (title, salary, department_id) values ('Account Manager','160000',3);
 INSERT INTO role (title, salary, department_id) values ('Accountant','125000',3);
 INSERT INTO role (title, salary, department_id) values ('Legal Team Lead','250000',4);
-INSERT INTO role (titlçe, salary, department_id) values ('Lawyer','190000',4);
+INSERT INTO role (title, salary, department_id) values ('Lawyer','190000',4);
 
 INSERT INTO department (department) values('Sales');
 INSERT INTO department (department) values('Engineering');
 INSERT INTO department (department) values('Finance');
 INSERT INTO department (department) values('Legal');
 
-INSERT INTO manager (id, manager) values(1, 'Joe Doe');
-INSERT INTO manager (id, manager) values(3, 'Aarron Johnson');
-INSERT INTO manager (id, manager) values(5, 'Bob Dole');
-INSERT INTO manager (id, manager) values(7, 'Bill Johanson');
+INSERT INTO manager (id, manager) values(1, 'John Doe');
+INSERT INTO manager (id, manager) values(3, 'Ashley Rodriguez');
+INSERT INTO manager (id, manager) values(5, 'Kunal Singh');
+INSERT INTO manager (id, manager) values(7, 'Sarah Lourd');

@@ -2,7 +2,7 @@ const mysql = require("mysql2");
 const inquirer = require("inquirer");
 
 require('console.table');
-// const sql = require("./db/schema.sql");
+// const sql = require("./sql");
 
 var connection = mysql.createConnection({
   host: "localhost",
